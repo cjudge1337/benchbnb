@@ -10,3 +10,5 @@ const Root = ({ store }) => (
     </Router>
   </Provider>
 );
+
+export default Root;
